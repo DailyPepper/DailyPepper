@@ -29,7 +29,4 @@
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
 ![Laravel](https://img.shields.io/badge/-Laravel-8f2323?style=flat-square&logo=Laravel)
 
-### Databases
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-white?style=flat-square&logo=Postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
