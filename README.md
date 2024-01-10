@@ -21,8 +21,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-94476E?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
 
 ### Backend
 
