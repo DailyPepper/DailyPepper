@@ -1,10 +1,13 @@
 ### Hi there 👋 I'm Daniel
 
 <a href="https://t.me/tvoykudinov" title="Telegram">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+  <img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/ru/free-icon/telegram_2111644">
 </a>
 <a href="mailto:danielkudinov17@gmail.com" title="Email">
   <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
+</a>
+<a href="https://vk.com/tvoykudinov" title="VK">
+  <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
 </a>
 <br>
 ## Stack
