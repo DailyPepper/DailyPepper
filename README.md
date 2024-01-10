@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Daniel
+### Hi there 👋 I'm Daniel Kudinov
 
 <a href="https://t.me/tvoykudinov" title="Telegram">
   <img align="left" alt="Telegram" width="22px" src="https://www.flaticon.com/ru/free-icon/telegram_2111644">
