@@ -10,6 +10,7 @@
   <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
 </a>
 <br>
+
 ## Stack
 
 ### Frontend
@@ -28,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-8f2323?style=flat-square&logo=Laravel)
 
 ### Databases
 
