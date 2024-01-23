@@ -6,9 +6,6 @@
 <a href="mailto:danielkudinov17@gmail.com" title="Email">
   <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
 </a>
-<a href="https://vk.com/tvoykudinov" title="VK">
-  <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
-</a>
 <br>
 
 ## Stack
