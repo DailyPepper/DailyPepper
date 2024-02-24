@@ -26,6 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-8f2323?style=flat-square&logo=Laravel)
 
 
