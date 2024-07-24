@@ -14,7 +14,6 @@
 
 ![React](https://img.shields.io/badge/-React-202020?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-35495e?style=flat-square&logo=vuedotjs)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=white&color=%23FFCE5A)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
