@@ -3,9 +3,7 @@
 <a href="https://t.me/tvoykudinov" title="Telegram">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.svgporn.com/logos/telegram.svg">
 </a>
-<a href="mailto:danielkudinov17@gmail.com" title="Email">
-  <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
-</a>
+
 <br>
 
 ## Stack
